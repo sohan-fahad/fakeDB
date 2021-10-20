@@ -15,7 +15,8 @@
         "Duration": "8Hours",
         "machine": "128/500 option slice CT Scanner",
         "fee": "8000",
-        "description": "https://i.ibb.co/3hvmxrs/1.jpg"
+        "description": "Revolution EVO Gen 2 features intelligent technology designed to help you acquire high-quality images using lower doses of radiation, contributing to more accurate diagnoses and lower exposures for patients. Dose management tools such as CT 4Kids dose-optimized pediatric reference scan protocols, 3D Dose Modulation, Organ Dose Modulation, Dose Check, DICOM DRSR and more are all at your fingertips. Revolution EVO Gen 2 is also compliant with NEMA XR 25 and XR 29 standards",
+        "img": "https://i.ibb.co/3hvmxrs/1.jpg"
     },
     {
         "id": 3,
