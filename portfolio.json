@@ -5,7 +5,7 @@
         "img":["https://i.ibb.co/sjsP5GB/Screenshot-4.png", "https://i.ibb.co/hdXsXrV/Screenshot-3.png", "https://i.ibb.co/7RgNTyc/Screenshot-5.png", "https://i.ibb.co/xX8pGQf/Screenshot-6.png", "https://i.ibb.co/CzRb1GW/Screenshot-7.png"],
         "githubClient":"https://github.com/sohan-fahad/bike-heaven-client",
         "githubServer": "https://github.com/sohan-fahad/bike-heaven-server",
-        "liveSite":"https://bike-heaven.web.app/"
+        "liveSite":"https://bike-heaven.web.app/",
         "des":"Bike Heaven is an online base bike selling shop. Where people can get their dream bike in very effortable price.",
         "whyChose": ["We are realiabel","We are very effortable.","We Offer the best price.", "We Offer the best bike.", "We have EMI facility."],
          "services": ["Users can place orders.","Before placing an order, the user must be logged in.", "Users can cancel their orders.", "Users can add reviews about the experience.","Admins can change the order status.","Admin can add a product."]
