@@ -6,6 +6,9 @@
         "githubClient":"https://github.com/sohan-fahad/bike-heaven-client",
         "githubServer": "https://github.com/sohan-fahad/bike-heaven-server",
         "liveSite":"https://bike-heaven.web.app/"
+        "des":"Bike Heaven is an online base bike selling shop. Where people can get their dream bike in very effortable price.",
+        "whyChose": ["We are realiabel","We are very effortable.","We Offer the best price.", "We Offer the best bike.", "We have EMI facility."],
+         "services": ["Users can place orders.","Before placing an order, the user must be logged in.", "Users can cancel their orders.", "Users can add reviews about the experience.","Admins can change the order status.","Admin can add a product."]
     },
     {
         "id": 2,
@@ -13,14 +16,20 @@
         "img":["https://i.ibb.co/0DdQGsr/Screenshot-9.png", "https://i.ibb.co/yPqBpWX/Screenshot-10.png", "https://i.ibb.co/Kj3KpSq/Screenshot-11.png", "https://i.ibb.co/Kj3KpSq/Screenshot-11.png", "https://i.ibb.co/3p9GC1d/Screenshot-12.png"],
         "githubClient":"https://github.com/sohan-fahad/travigo-client",
         "githubServer": "https://github.com/sohan-fahad/travigo-server",
-        "liveSite":"https://travigo-travel.web.app/"
+        "liveSite":"https://travigo-travel.web.app/",
+        "des":"Bike Heaven is an online base bike selling shop. Where people can get their dream bike in very effortable price.",
+        "whyChose": ["We are realiabel","We are very effortable.","We Offer the best price.", "We Offer the best bike.", "We have EMI facility."],
+         "services": ["Users can place orders.","Before placing an order, the user must be logged in.", "Users can cancel their orders.", "Users can add reviews about the experience.","Admins can change the order status.","Admin can add a product."]
     },
     {
         "id": 3,
         "name": "Patient Health Care",
         "img":["https://i.ibb.co/0DdQGsr/Screenshot-9.png", "https://i.ibb.co/yPqBpWX/Screenshot-10.png", "https://i.ibb.co/Kj3KpSq/Screenshot-11.png", "https://i.ibb.co/Kj3KpSq/Screenshot-11.png", "https://i.ibb.co/3p9GC1d/Screenshot-12.png"],
         "githubClient":"https://github.com/sohan-fahad/patient-health-care",
-        "liveSite":"https://patient-health-care-2a9dd.web.app/"
+        "liveSite":"https://patient-health-care-2a9dd.web.app/",
+        "des":"Bike Heaven is an online base bike selling shop. Where people can get their dream bike in very effortable price.",
+        "whyChose": ["We are realiabel","We are very effortable.","We Offer the best price.", "We Offer the best bike.", "We have EMI facility."],
+         "services": ["Users can place orders.","Before placing an order, the user must be logged in.", "Users can cancel their orders.", "Users can add reviews about the experience.","Admins can change the order status.","Admin can add a product."]
         
     }
 ]
