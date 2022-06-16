@@ -62,7 +62,7 @@
 				"github": "",
 				"external": "https://tools.applemusic.com/en-us"
 			},
-			"html": "Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging <a href=\"https://developer.apple.com/documentation/musickitjs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">MusicKit.js</a>. Read more about this project on <a href=\"https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">9to5Mac</a>."
+			"html": "Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging"
 		}
 	},
 	{
@@ -73,7 +73,7 @@
 				"github": "",
 				"external": "https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming"
 			},
-			"html": "Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on <a href=\"https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">The Verge</a>."
+			"html": "Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on"
 		}
 	},
 	{
