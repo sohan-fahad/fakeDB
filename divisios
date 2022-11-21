@@ -38,7 +38,7 @@
           "Chandpur Sadar",
           "Haziganj"
         ]
-      },
+      }
     ]
   },
   {
@@ -84,6 +84,19 @@
           "Nikli",
           "Mithamain",
           "Bhairab"
+        ]
+      },
+      {
+        "districtId": 6,
+        "districtName": "Manikganj",
+        "subDistrict": [
+          "Manikganj Sadar",
+          "Singair",
+          "Saturiya",
+          "Ghior",
+          "Shibaloy",
+          "Dowlotpur",
+          "Horirampur"
         ]
       }
     ]
