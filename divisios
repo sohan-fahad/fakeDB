@@ -30,7 +30,15 @@
           "Suborno Char",
           "Bashan Char"
         ]
-      }
+      },
+      {
+        "districtId": 3,
+        "districtName": "Chandpur",
+        "subDistrict": [
+          "Chandpur Sadar",
+          "Haziganj"
+        ]
+      },
     ]
   },
   {
